@@ -1,0 +1,44 @@
+
+    .textbill {
+        color: rgb(62, 59, 54);
+        background-color: rgb(156, 201, 201);
+        border: #3376e9 solid;
+        font-size: medium;
+        margin: 1.5em;
+        padding: 1.5em;
+
+    }  
+
+
+   
+/*     
+@media (min-width : 960px) {
+
+    .textbill {
+        font-size: 1.5em;
+        font-size: larger;
+        color: rgb(238, 236, 236);
+        margin-left: 2em;
+       
+    }
+
+} */
+    
+
+
+
+.warning {
+    color: rgb(234, 255, 0);
+    font-weight: bold;
+}
+
+.danger {
+    color: crimson;
+    font-weight: bold;
+}
+
+.total {
+    font-weight: bold;
+    font-size: 2em;
+}
+
